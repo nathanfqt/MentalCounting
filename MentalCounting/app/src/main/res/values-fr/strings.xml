@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculMental</string>
+    <string name="play_button">Jouer</string>
+    <string name="score_button">Score</string>
+    <string name="your_operation_number_xx">Votre nombre d operation : XX</string>
+    <string name="succes_percentage_xx">pourcentage de réussite : XX %</string>
+    <string name="last_operation_xx_and_the_result_xx">Dernière opération : XX / Son résultat : XX</string>
+    <string name="previous">Précédent</string>
+    <string name="correct">Correct !</string>
+    <string name="incorrect">Incorrect !</string>
+    <string name="submit">Valider</string>
+</resources>

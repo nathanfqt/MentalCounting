@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MentalCounting</string>
+    <string name="play_button">Play</string>
+    <string name="score_button">Score</string>
+    <string name="your_operation_number_xx">Your operation number : XX</string>
+    <string name="succes_percentage_xx">Succes percentage : XX %</string>
+    <string name="last_operation_xx_and_the_result_xx">Last operation : XX / And the result : XX</string>
+    <string name="previous">Previous</string>
+    <string name="correct">Correct !</string>
+    <string name="incorrect">Incorrect !</string>
+    <string name="submit">Submit</string>
+</resources>
